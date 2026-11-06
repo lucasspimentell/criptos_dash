@@ -1,0 +1,20 @@
+{
+  "short_name": "Cripto",
+  "name": "Cripto App",
+  "icons": [
+    {
+      "src": "/moedas.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/moedas.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "display": "standalone"
+}
